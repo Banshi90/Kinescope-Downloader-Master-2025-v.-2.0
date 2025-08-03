@@ -70,7 +70,7 @@
 ### 🟢 Шаг 1: Начало
 
 1. Откройте Telegram  
-2. Найдите бота: **[**[**@Kinescope_Downloader**](https://t.me/Kinescope_Downloader)_New_bot**](https://t.me/Kinescope_Downloader_New_bot)**  
+2. Найдите бота: [**@Kinescope_Downloader_New_bot**](https://t.me/Kinescope_Downloader_New_bot)
 3. Нажмите **Start** или отправьте `/start`
 
 ### 📄 Шаг 2: Получение системного журнала
