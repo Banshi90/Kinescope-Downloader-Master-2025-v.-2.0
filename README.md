@@ -1,5 +1,9 @@
 # 🎥 Kinescope-Master 2025 v.2.0 (Windows)
 
+![CI](https://github.com/Banshi90/Kinescope-Downloader-Master-2025-v.-2.0/actions/workflows/ci.yml/badge.svg)
+![Release](https://img.shields.io/github/v/release/Banshi90/Kinescope-Downloader-Master-2025-v.-2.0)
+![Stars](https://img.shields.io/github/stars/Banshi90/Kinescope-Downloader-Master-2025-v.-2.0?style=social)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 > 🧠 **Ищешь, как скачать видео с Kinescope.io?**  
 > Этот инструмент — один из самых удобных способов *скачивания видео с платформы Kinescope*, включая лекции, вебинары и закрытые курсы.  
